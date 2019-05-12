@@ -2,7 +2,6 @@
 
 def valid_move(board, index)
   if 
-else
 end
 end
 
